@@ -1,0 +1,22 @@
+body {
+	background-color:pink;
+	color: white}
+p{
+	font-size: 15px;
+	color: red;
+	font-family: sans-serif;
+	text-align: right; }
+table {
+	font-size: 15px;
+	color: red;
+	font-family: sans-serif;}
+h1 {
+	background-color: purple;
+	font-family: monospace;
+	border-style: outset}
+h3 {
+	border-style: outset;
+	text-align: center;
+	background-color: purple;
+	font-family: monospace;
+	font-size: 20px}
